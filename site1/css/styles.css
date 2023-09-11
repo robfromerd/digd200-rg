@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Redacted Script';
+  src: url('../fonts/RedactedScript-Light.ttf') format('truetype');
+}
+.redacted {
+    font-family: 'Redacted Script', cursive;
+font-size:2rem;
+}
+body{
+--my-brand-color: green;
+}
+header.pizza {
+  background-image: url(https://fakeimg.pl/1280x853/e6dd65/909090?text=Background&font=noto);
+  background-size: cover;
+background-position: center;    
+}
+header .teaser {
+  background-color: rgba(000, 000, 000, 0.6);
+}
+.navbar-nav .nav-link.active{
+ color:var(--my-brand-color);
+ font-weight:bold; 
+}
