@@ -29,7 +29,7 @@
                     const page = urlParams.get('page') || 'home';
                     
                     // Setting initial page title, with a custom title for the home page, If the page variable is equal to 'home', set the title variable to 'Custom Home Title'; otherwise, call the formatTitle method with the page variable as an argument and set the title variable to the returned string.
-                    const title = page === 'home' ? "Custom Home Title" : this.formatTitle(page);
+                    const title = page === 'home' ? "Rob's Bikes" : this.formatTitle(page);
                     
                     // Changing content to the appropriate page based on the URL parameter
                     this.changeContent(page, title);
