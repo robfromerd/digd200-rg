@@ -19,7 +19,7 @@ body{
 .gradient-teaser {
 border-radius:10px;
 
-background: linear-gradient(180deg, #FBF19D 0%, #4C94E9 140.39%);
+background: linear-gradient(180deg, #ff860a 0%, #f1f1f1 100%);
 }
 a.navbar-brand img {
     height:50px;
