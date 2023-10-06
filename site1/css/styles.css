@@ -23,3 +23,23 @@ background: linear-gradient(180deg, #FFF -33.89%, #4C94E9 140.39%);
 a.navbar-brand img {
     height:50px;
 }
+a.active {
+    border-bottom:1px dotted orange;
+}
+
+h1 {
+ 
+font-family: 'Karla', sans-serif;
+    font-weight: 700;
+}
+h2,h3 {
+font-family: 'Rosario', sans-serif;    
+    font-weight: 700;
+
+}
+p{
+        font-family: 'Overpass', sans-serif;
+
+     font-weight: 300;
+   
+}
