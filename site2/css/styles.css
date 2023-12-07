@@ -13,7 +13,7 @@
 }
 /* important: change this value to the computed height of your nav with your desired logo in it*/
 header {
-height: 56px;  
+height: 96px;  
 }
 * {
    font-family: 'Bitter', serif;
@@ -80,3 +80,4 @@ footer i {
     
     color:white;
 }
+a.navbar-brand img {height:70px;}
